@@ -3,6 +3,12 @@ import random
 from collections import deque
 from sklearn.preprocessing import StandardScaler
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
+from agi_core.transformers_wrapper import TransformerEngine
+
+
+self.transformer = TransformerEngine()
+response = self.transformer.generate_response(context)
+
 
 
 class CognitiveContextEngine:
