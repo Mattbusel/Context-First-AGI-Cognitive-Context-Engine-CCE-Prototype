@@ -1,1 +1,4 @@
+torch
+transformers
+numpy
 
