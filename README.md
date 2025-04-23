@@ -1,4 +1,4 @@
-# 🧠🧩 Context-First AGI: Cognitive Context Engine (CCE)  
+#  Context-First AGI: Cognitive Context Engine (CCE)  
 ### _Simulated Thought Before Speech_
 
 ![Stage: Prototype](https://img.shields.io/badge/stage-prototype-blue)  
