@@ -58,6 +58,7 @@ Translates compressed thoughts into audience-specific language.
 > Language interface lives in `insight_generator.py`
 
 ---
+![Cognitive Context Engine Image](039ca2a6-f1e2-4848-b848-27e10c50e4ba.png)
 
 ### Recent Progress
 
